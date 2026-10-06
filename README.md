@@ -1,5 +1,7 @@
 # Anuvaad AI
 
+<p>Live - https://anuvaad-ai-nine.vercel.app/</p>
+
 A hackathon-ready multilingual communication workspace for Indian languages.
 
 ## Stack
