@@ -23,6 +23,9 @@ import {
 
 import { createWorker } from 'tesseract.js'
 
+const API_URL =
+  import.meta.env.VITE_API_URL ||
+  'http://localhost:5000'
 
 const LANGUAGES = [
   ['English', 'eng_Latn', 'en-IN'],
@@ -381,7 +384,7 @@ useEffect(() => {
     try {
 
       const res = await fetch(
-        '/api/translate',
+  `${API_URL}/api/translate`,
         {
           method: 'POST',
 
@@ -446,7 +449,7 @@ useEffect(() => {
     try {
 
       const res = await fetch(
-        '/api/simplify',
+        `${API_URL}/api/simplify`,
         {
           method: 'POST',
 
