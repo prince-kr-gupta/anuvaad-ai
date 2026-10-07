@@ -7,18 +7,7 @@
 Anuvaad AI is designed to reduce language barriers by combining **AI translation, voice input, speech playback, OCR-based text extraction, and Simple Mode** inside one easy-to-use interface.
 
 The goal is simple: a user should be able to **type, speak, scan, translate, understand, and listen** — all from one place.
-
----
-
-## 🚀 Live Demo
-
-### Frontend
-https://anuvaad-ai-nine.vercel.app/
-
-### Backend
-https://anuvaad-ai-haxu.onrender.com/
-
----
+1
 
 ## 💡 Problem Statement
 
