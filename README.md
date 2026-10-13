@@ -2,7 +2,7 @@
 
 <p>Live - https://anuvaad-ai-nine.vercel.app/</p>
 
-> AI-powered multilingual communication platform for Indian languages.
+ AI-powered multilingual communication platform for Indian languages.
 
 Anuvaad AI is designed to reduce language barriers by combining **AI translation, voice input, speech playback, OCR-based text extraction, and Simple Mode** inside one easy-to-use interface.
 
