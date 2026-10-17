@@ -165,7 +165,7 @@ AI Output
    └── Listen using Browser TTS
 
 ```
-
+```
 ## 🏗️ Architecture
 
 Frontend
@@ -190,8 +190,8 @@ Additional browser-side services:
 - Speech Synthesis API → Text-to-Speech
 - Tesseract.js → OCR
 
+```
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -415,4 +415,4 @@ The project focuses on making technology easier to use for people who may face l
 
 Anuvaad AI was built by **Team Cyber Runners** with the goal of making multilingual communication simpler, faster, and more accessible.
 
-> Speak freely. Understand everyone.
+Speak freely. Understand everyone.
