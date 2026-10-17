@@ -218,6 +218,7 @@ Additional browser-side services:
 
 ---
 
+```
 ## 📂 Project Structure
 
 Anuvaad-AI/
@@ -237,7 +238,7 @@ Anuvaad-AI/
     ├── .env
     └── .gitignore
 
----
+```
 
 ## ⚙️ Local Setup
 
