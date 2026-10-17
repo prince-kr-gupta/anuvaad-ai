@@ -135,7 +135,7 @@ Anuvaad AI currently provides options for:
 - Santali
 - Sindhi
 
----
+```
 
 ## 🧠 System Workflow
 
@@ -164,7 +164,7 @@ AI Output
    ├── Copy Output
    └── Listen using Browser TTS
 
----
+```
 
 ## 🏗️ Architecture
 
